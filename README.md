@@ -4,7 +4,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square) 
-![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=photoshop&logoColor=white&style=flat-square) 
+![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=ps&logoColor=white&style=flat-square) 
 
 
 ## Contact me 💭
