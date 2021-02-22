@@ -11,11 +11,8 @@
 - <a href="https://vk.me/arlcrow123"><img src="https://vk.com/images/icons/favicons/fav_logo.ico?6" width=16 height=16 align="center" /> VK</a>
 - <a href="mailto:arlcrow@outlook.com">📩 E-mail: `arlcrow@outlook.com`</a>
 
-<!-- ## Donate 💸
-- <a href="https://qiwi.com/n/CRINNY"><img src="https://static.qiwi.com/img/providers/300x300/qiwi.png" width=16 height=16 align="center" /> QIWI Wallet</a>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/600px-Bitcoin.svg.png" width=16 height=16 align="center" /> Bitcoin: `174dWAhcX1BDrKcbQhV5xQjRmP7GmY1G51`
-- <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0x6E478e428e5d7b4228F437c0fBD00277B8aC35A4`
--->
+## Donate 💸
+<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=На пиво и кошачий корм :)&targets-hint=&default-sum=50&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=4100115620412006" width="359" height="238" frameborder="0" allowtransparency="true" scrolling="no"></iframe> 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=arlcrow123&show_icons=true&count_private=true&theme=radical">
 
