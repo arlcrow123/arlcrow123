@@ -12,7 +12,7 @@
 - <a href="mailto:arlcrow@outlook.com">📩 E-mail: `arlcrow@outlook.com`</a>
 
 ## Donate 💸
-<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=На пиво и кошачий корм :)&targets-hint=&default-sum=50&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=4100115620412006" width="359" height="238" frameborder="0" allowtransparency="true" scrolling="no"></iframe> 
+<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=%D0%9D%D0%B0%20%D0%BF%D0%B8%D0%B2%D0%BE%20%D0%B8%20%D0%BA%D0%BE%D1%88%D0%B0%D1%87%D0%B8%D0%B9%20%D0%BA%D0%BE%D1%80%D0%BC%20:)&targets-hint=&default-sum=50&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=4100115620412006" width="359" height="238" frameborder="0" allowtransparency="true" scrolling="no"></iframe> 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=arlcrow123&show_icons=true&count_private=true&theme=radical">
 
