@@ -9,10 +9,10 @@
 ## Contact me 💭
 - <a href="https://t.me/arlcrow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
 - <a href="https://vk.me/arlcrow123"><img src="https://vk.com/images/icons/favicons/fav_logo.ico?6" width=16 height=16 align="center" /> VK</a>
-- <a href="mailto:arlcrow@outlook.com">📩 E-mail: `arlcrow@outlook.com`</a>
+- <a href="mailto:arlcrow.prv@gmail.com">📩 E-mail: `arlcrow.prv@gmail.com`</a>
 
 ## Donate 💸
-<img src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=%D0%9D%D0%B0%20%D0%BF%D0%B8%D0%B2%D0%BE%20%D0%B8%20%D0%BA%D0%BE%D1%88%D0%B0%D1%87%D0%B8%D0%B9%20%D0%BA%D0%BE%D1%80%D0%BC%20:)&targets-hint=&default-sum=50&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=4100115620412006" width="359" height="238"></img> 
+- <a href="https://yoomoney.ru">YooMoney</a>:&#4448;<a href="https://yoomoney.ru/to/4100115620412006/400">4100115620412006</a>
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=arlcrow123&show_icons=true&count_private=true&theme=radical">
 
