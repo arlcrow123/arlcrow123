@@ -12,7 +12,9 @@
 - <a href="mailto:arlcrow.prv@gmail.com">📩 E-mail: `arlcrow.prv@gmail.com`</a>
 
 ## Donate 💸
-- <a href="https://yoomoney.ru">YooMoney</a>:&#4448;<a href="https://yoomoney.ru/to/4100115620412006/400">4100115620412006</a>
+- <a href="https://yoomoney.ru">YooMoney</a>:&#4448;<a href="https://yoomoney.ru/to/4100115620412006">4100115620412006</a>
+- Card: 4048 0250 0001 5829 (Bank: Yoomoney)
+- <a href="https://sbp.nspk.ru/">СБП (Система Быстрых платежей</a>: +79817756625 (Банк: ЮМани) 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=arlcrow123&show_icons=true&count_private=true&theme=radical">
 
