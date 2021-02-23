@@ -4,17 +4,16 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square) 
-![Python](https://img.shields.io/badge/-Python-brightgreen?logo=python&logoColor=white&style=flat-square) 
 
 ## Contact me 💭
-- <a href="https://t.me/arlcrow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
+- <a href="https://t.me/arlcrow123"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
 - <a href="https://vk.me/arlcrow123"><img src="https://vk.com/images/icons/favicons/fav_logo.ico?6" width=16 height=16 align="center" /> VK</a>
 - <a href="mailto:arlcrow.prv@gmail.com">📩 E-mail: `arlcrow.prv@gmail.com`</a>
 
 ## Donate 💸
 - <a href="https://yoomoney.ru">YooMoney</a>:&#4448;<a href="https://yoomoney.ru/to/4100115620412006">4100115620412006</a>
 - Card: 4048 0250 0001 5829 (Bank: Yoomoney)
-- <a href="https://sbp.nspk.ru/">СБП (Система Быстрых платежей</a>: +79817756625 (Банк: ЮМани) 
+- <a href="https://sbp.nspk.ru">СБП (Система Быстрых платежей)</a>: +79817756625 (Банк: ЮМани) 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=arlcrow123&show_icons=true&count_private=true&theme=radical">
 
