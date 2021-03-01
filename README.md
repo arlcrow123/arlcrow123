@@ -4,7 +4,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-%230174b8?logo=cpp&logoColor=white&style=flat-square) 
+![C++](https://img.shields.io/badge/-C++-%230174b8?logo=c++&logoColor=white&style=flat-square) 
 ![Arduino](https://img.shields.io/badge/-Arduino-%230174b8?logo=arduino&logoColor=white&style=flat-square) 
 
 ## Contact me 💭
