@@ -1,4 +1,4 @@
-<img src="https://gpvc.arturio.dev/arlcrow123" align="center" />
+![ViewsCounter](https://gpvc.arturio.dev/arlcrow123) 
 <h3>Hi there (*^ω^)</h3>
 
 ## My stack 👨‍💻	
